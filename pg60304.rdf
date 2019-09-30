@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+>
+  <pgterms:ebook rdf:about="ebooks/60304">
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">312</pgterms:downloads>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/60304/60304-0.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N8b2a7df30a6742d0b6ff17150613d332">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nfb670be0d03540438b8c31b6d6343b60">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">162452</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-09-15T10:15:28</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/60304"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="Ne0cea444a7324cb2880dfc9c6727ccf6">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">de</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/60304.kindle.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/60304"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nd8ac72a5e7d3444fa343d6c4e5d1b157">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1695623</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-09-15T12:40:09.925550</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/60304/60304-0.txt">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-09-15T10:15:26</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">415093</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N6c829a0de7d04731a592940f3a37ccfa">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/60304"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/cache/epub/60304/pg60304.cover.medium.jpg">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nb5984d032e9d4cebaea481dcbd22b6a2">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/60304"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13135</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-09-15T12:40:14.503487</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/60304/60304-h/60304-h.htm">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">594259</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N543e2af9b19240f88c4c4a0295469af5">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=utf-8</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-09-15T10:15:28</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/60304"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/cache/epub/60304/pg60304.cover.small.jpg">
+        <dcterms:isFormatOf rdf:resource="ebooks/60304"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1912</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N8498e05b885945ed98f350cafdc28fad">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-09-15T12:40:14.434489</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N708a0946fa484376a86386d3d6560a2a">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+        <rdf:value>PT</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="Nba89ad5603fd4c64929a40c3622418b5">
+        <rdf:value>Text</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+      </rdf:Description>
+    </dcterms:type>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Ne0155ba2bbb0454ca282fcea8cd3ac99">
+        <rdf:value>German prose literature -- 20th century</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:title>Fechsung</dcterms:title>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/46865">
+        <pgterms:name>Altenberg, Peter</pgterms:name>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1919</pgterms:deathdate>
+        <pgterms:alias>Engländer, Richard</pgterms:alias>
+        <pgterms:alias>Englander, Richard</pgterms:alias>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/Peter_Altenberg"/>
+        <pgterms:alias>Englaender, Richard</pgterms:alias>
+        <pgterms:webpage rdf:resource="https://de.wikipedia.org/wiki/Peter_Altenberg"/>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1859</pgterms:birthdate>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/60304.rdf">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14259</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/60304"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nfb60bf519201417ab6eb70ae3190d986">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-09-19T05:48:12.532486</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-09-15</dcterms:issued>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nc4eabb105cbc46eb8cd22e149a8151d5">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>German essays -- 20th century</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/60304.kindle.noimages">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N2ff5040caf354759bcf6232263bcf0e4">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-09-15T12:40:14.351492</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1440783</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/60304"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/60304.epub.noimages">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-09-15T12:40:05.398634</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/60304"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">486495</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N52426ba9065141d0b92d8486a2323fa5">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/60304.epub.images">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-09-15T12:40:04.789628</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ne3fed2e3db88498ba971836a8ffc1a51">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">662523</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/60304"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:tableOfContents>Nachtrag zu Prodromos -- Erlebnis -- Nester -- Entdecken -- St. D. -- Vergnügungslokal -- Moulin Rouge, „Venedig in Wien“ -- Karriere -- Verein Naturschutzpark -- Mimikerinnen -- Albert -- Mein Bruder -- Liebe -- Der Luxus von heute und seine Übertreibungen -- Meine Schwester -- Laotse: Der heilige Baum -- Wachsfiguren -- Meine andere Schwester -- Automne -- Venezianerinnen -- Ein Lied -- Venedig -- Venedig -- Onkel Emmerich -- Das Leben -- Onkel Max -- Brief an Grete Wiesenthal, die Tänzerin -- Frauen -- Stammtisch -- Italien -- Café Capua -- Die Kellerstiege -- Tschuang Tse: Der Glockenspielständer -- Plauderei -- Die Urgroßmutter -- Die Auffassung -- England -- Das Glasgeschenk -- Vanitas -- Ständchen -- Mein Fensterbrett -- Paulina -- Erziehung -- Reformationszeitalter -- Splitter -- Der „Feigling“ -- Tabarin -- Splitter -- 55. Geburtstag -- Lyrik -- Der Tod einer Samariterin -- Die Stupiditäten der Vogel-Strauß-Politik -- Geistigkeit -- Apollotheater -- Splitter -- Semmering-Photogravüren -- Splitter -- Brief an eine junge Brasilianerin -- Splitter -- Kriegszeiten -- Sühne -- Dora 1 -- Dora 2 -- Dora 3 -- Zum Heldentode des Dr. Frank -- Der Vorfrühling -- Naturliebe -- Witz -- Plauderei -- Karoline -- Meine Schwester Gretl -- Krieg -- Meine Tränen -- Quod licet -- Signor Io -- Splitter -- Ausblicke -- Dilemma -- Romantik -- (Goethe!) Hermann und Dorothea -- Farbe -- Diätetik der Seele -- Splitter -- Schule des Lebens -- Theater und Krieg -- Philosophie.</dcterms:tableOfContents>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/60304/60304-h.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nb5b5d852110644859836f2e57d9e42a6">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/60304"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N8cbad3d5c08349ea879aa7ad468a1cd6">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=utf-8</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-09-15T10:15:28</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">450639</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            http://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+  </cc:Work>
+  <rdf:Description rdf:about="https://de.wikipedia.org/wiki/Peter_Altenberg">
+    <dcterms:description>de.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Peter_Altenberg">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>

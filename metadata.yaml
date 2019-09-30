@@ -1,0 +1,51 @@
+_repo: Fechsung_60304
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Altenberg, Peter
+    aliases:
+    - Engländer, Richard
+    - Englander, Richard
+    - Englaender, Richard
+    birthdate: 1859
+    deathdate: 1919
+    gutenberg_agent_id: '46865'
+    url: http://www.gutenberg.org/2009/agents/46865
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Peter_Altenberg
+    - https://de.wikipedia.org/wiki/Peter_Altenberg
+description: ''
+gutenberg_issued: '2019-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60304'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German prose literature -- 20th century'
+- !lcsh 'German essays -- 20th century'
+- GITenberg
+tableOfContents: 'Nachtrag zu Prodromos -- Erlebnis -- Nester -- Entdecken -- St.
+  D. -- Vergnügungslokal -- Moulin Rouge, „Venedig in Wien“ -- Karriere -- Verein
+  Naturschutzpark -- Mimikerinnen -- Albert -- Mein Bruder -- Liebe -- Der Luxus von
+  heute und seine Übertreibungen -- Meine Schwester -- Laotse: Der heilige Baum --
+  Wachsfiguren -- Meine andere Schwester -- Automne -- Venezianerinnen -- Ein Lied
+  -- Venedig -- Venedig -- Onkel Emmerich -- Das Leben -- Onkel Max -- Brief an Grete
+  Wiesenthal, die Tänzerin -- Frauen -- Stammtisch -- Italien -- Café Capua -- Die
+  Kellerstiege -- Tschuang Tse: Der Glockenspielständer -- Plauderei -- Die Urgroßmutter
+  -- Die Auffassung -- England -- Das Glasgeschenk -- Vanitas -- Ständchen -- Mein
+  Fensterbrett -- Paulina -- Erziehung -- Reformationszeitalter -- Splitter -- Der
+  „Feigling“ -- Tabarin -- Splitter -- 55. Geburtstag -- Lyrik -- Der Tod einer Samariterin
+  -- Die Stupiditäten der Vogel-Strauß-Politik -- Geistigkeit -- Apollotheater --
+  Splitter -- Semmering-Photogravüren -- Splitter -- Brief an eine junge Brasilianerin
+  -- Splitter -- Kriegszeiten -- Sühne -- Dora 1 -- Dora 2 -- Dora 3 -- Zum Heldentode
+  des Dr. Frank -- Der Vorfrühling -- Naturliebe -- Witz -- Plauderei -- Karoline
+  -- Meine Schwester Gretl -- Krieg -- Meine Tränen -- Quod licet -- Signor Io --
+  Splitter -- Ausblicke -- Dilemma -- Romantik -- (Goethe!) Hermann und Dorothea --
+  Farbe -- Diätetik der Seele -- Splitter -- Schule des Lebens -- Theater und Krieg
+  -- Philosophie.'
+title: Fechsung
+url: http://www.gutenberg.org/ebooks/60304
